@@ -1,2 +1,2 @@
 # Kaggle-Competition
-Predicting Fake vs. Real entries for Numerical (A) and Text (B) Data
+Predicting Fake vs. Real Entries for Numerical (A) and Text (B) Data
